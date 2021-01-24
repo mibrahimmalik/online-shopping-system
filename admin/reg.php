@@ -22,7 +22,7 @@
             <div class="container">
                 <div class="signup-content">
                     <div class="signup-form">
-                        <h2 class="form-title">Admin register Here</h2>
+                        <h2 class="form-title">Admin register Here Please</h2>
                         <form method="post" class="register-form" id="register-form" action="login.php">
                              <div class="alert alert-danger"><h4 id="e_msg"><?php include('./server/errors.php'); ?></h4></div>
                             <div class="form-group">
