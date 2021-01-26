@@ -31,7 +31,7 @@
                     </div>
 
                     <div class="signin-form">
-                        <h2 class="form-title">ADMIN LOGIN</h2>
+                        <h2 class="form-title">ADMIN LOGIN Update</h2>
                         <form  class="register-form" id="login-form" action="login.php" method="post">
                             <div class="alert alert-danger"><h4 id="e_msg"><?php include('./server/errors.php'); ?></h4></div>
                             <div class="form-group">
